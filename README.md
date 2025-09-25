@@ -71,7 +71,7 @@ Each Spoke contract represents a token pool where users can deposit and interact
 ---
 
 ## Hub Token Pools
-
+These are hub-level contracts that serve as the global record of asset pools. They mirror their Spoke counterparts to ensure consistent accounting, liquidity management, and cross-chain synchronization.
 | Token   | Deployment Date | Address                                      |
 |---------|-----------------|----------------------------------------------|
 | MON     | Apr-02-2025     | `0x9BCeEA5cF70F801d461AE40eBF75Dda72a02696c` |
